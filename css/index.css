@@ -1,7 +1,6 @@
 
 main {
     color: var(--bs-body-color);
-
 }
 
 #cards_panel {
@@ -17,7 +16,6 @@ main {
     flex-direction: row;
     justify-content: flex-start;
     margin-top: 10px;
-    
 }
 
 #card div {
