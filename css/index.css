@@ -1,0 +1,25 @@
+
+main {
+    color: var(--bs-body-color);
+
+}
+
+#cards_panel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#card {
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 10px;
+    
+}
+
+#card div {
+    padding: 8px;
+}
