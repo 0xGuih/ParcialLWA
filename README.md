@@ -1,2 +1,2 @@
-# Parcial_LWA
+# ParcialLWA
 Parcial Laboratorio Web Apps
